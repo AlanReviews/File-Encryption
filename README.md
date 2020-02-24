@@ -1,5 +1,6 @@
 # File-Encryption
-This is a simple file encryption program I made with C on Linux. It is very easy to port it to Windows and Mac.
+This is a simple file encryption program I made with C on Linux. It is very easy to port it to Windows and Mac. 
+Disclaimer: This program is not to be used for any real encryption and protection of files.
 
 Steps
 1. Compile the fileEncryption.c by calling gcc -o fileEncryption fileEncryption.c
