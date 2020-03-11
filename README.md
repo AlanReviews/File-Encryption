@@ -1,5 +1,5 @@
 # File-Encryption
-This is a simple file encryption program I made with C on Linux. It is very easy to port it to Windows and Mac. 
+This is a simple file encryption program I made with C on Linux. It is very easy to port it to Windows and Mac. I tested the program using Ubuntu 18.04. 
 Disclaimer: This program is not to be used for any real encryption and protection of files.
 
 Steps
