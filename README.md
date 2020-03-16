@@ -1,6 +1,8 @@
 # File-Encryption
-This is a simple file encryption program I made with C on Linux. It is very easy to port it to Windows and Mac. I tested the program using Ubuntu 18.04. 
 Disclaimer: This program is not to be used for any real encryption and protection of files. The encryption performed is a byte-for-byte XOR using the same byte (the key is a single byte long). This scrambling is trivial to crack. It can possobly be seen as a simplified example of a Caesar cipher
+
+This is a simple file encryption program I made with C on Linux. It is very easy to port it to Windows and Mac. I tested the program using Ubuntu 18.04. 
+
 
 Steps
 1. Compile the fileEncryption.c by calling gcc -o fileEncryption fileEncryption.c
